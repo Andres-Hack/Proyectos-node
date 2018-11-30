@@ -1,3 +1,7 @@
 crud-node-mongo/node_modules
 jwt-test/node_modules
 server-express/node_modules
+crud-node-mongo/package-lock.json
+jwt-test/package-lock.json
+server-express/package-lock.json
+
